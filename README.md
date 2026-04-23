@@ -368,7 +368,14 @@ I use this space to document project work, technical learning, and analytics eng
 - LinkedIn: [chizaram-enyinwa](https://www.linkedin.com/in/chizaram-enyinwa)
 - Email: [enyinwa.patience@gmail.com](mailto:enyinwa.patience@gmail.com)
 
-#NEXT
-#NEXT
-#NEXT
+# NEXT
+# NEXT
+# NEXT
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tzsapphire&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
+</p>
