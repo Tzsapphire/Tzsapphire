@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chizaram-enyinwa">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/chizaram-p-0b7008376">LinkedIn</a> •
   <a href="mailto:enyinwa.patience@gmail.com">Email</a> •
   <a href="https://github.com/Tzsapphire">GitHub</a>
 </p>
@@ -162,11 +162,6 @@ I share project breakdowns, technical reflections, and analytics engineering lea
 > Build data work that people can trust, use, and scale.
 
 ---
-
-## Connect
-
-- LinkedIn: [chizaram-enyinwa](https://www.linkedin.com/in/chizaram-enyinwa)
-- Email: [enyinwa.patience@gmail.com](mailto:enyinwa.patience@gmail.com)
 
 
 #NEXT
