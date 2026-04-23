@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Chizaram Patience Enyinwa</h1>
+<!-- <h1 align="center">Chizaram Patience Enyinwa</h1> -->
 <p align="center">
   Data Engineer • Analytics Engineer • Data & BI
 </p>
