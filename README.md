@@ -69,16 +69,15 @@ Git, GitHub Actions, Linux CLI, VS Code
 
 ## Featured Work
 
-### 1) Analytics DBT Project
-**Stack:** Snowflake, dbt, Power BI  
-An end-to-end analytics engineering project built around staged transformations and reporting-ready marts.
+### 1) Open Source Contribution — MindsDB
+**Focus:** documentation improvement, product integration workflow  
+Contributed to documentation-related improvement work around the Instatus integration.
 
-- Structured raw data into layered dbt models
-- Applied testing and transformation patterns for cleaner downstream use
-- Built a BI layer to support business-facing analysis
+**References:**  
+[Upstream issue](https://github.com/mindsdb/mindsdb/issues/12152)  
+[Contribution branch](https://github.com/Tzsapphire/mindsdb/tree/fix-insert-query-instatus-documentation)
 
-**Repository:**  
-[Analytics_DBT](https://github.com/Tzsapphire/Analytics_DBT)
+
 
 ---
 
@@ -95,13 +94,16 @@ A collaborative marketing analytics project that transforms campaign and subscri
 
 ---
 
-### 3) Open Source Contribution — MindsDB
-**Focus:** documentation improvement, product integration workflow  
-Contributed to documentation-related improvement work around the Instatus integration.
+### 3) Analytics DBT Project
+**Stack:** Snowflake, dbt, Power BI  
+An end-to-end analytics engineering project built around staged transformations and reporting-ready marts.
 
-**References:**  
-[Upstream issue](https://github.com/mindsdb/mindsdb/issues/12152)  
-[Contribution branch](https://github.com/Tzsapphire/mindsdb/tree/fix-insert-query-instatus-documentation)
+- Structured raw data into layered dbt models
+- Applied testing and transformation patterns for cleaner downstream use
+- Built a BI layer to support business-facing analysis
+
+**Repository:**  
+[Analytics_DBT](https://github.com/Tzsapphire/Analytics_DBT)
 
 ---
 
@@ -125,11 +127,11 @@ Contributed to documentation-related improvement work around the Instatus integr
 
 ## Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tzsapphire&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -163,211 +165,6 @@ I share project breakdowns, technical reflections, and analytics engineering lea
 
 ---
 
-
-#NEXT
-#NEXT
-#NEXT
-<h1 align="center">Chizaram Patience Enyinwa</h1>
-<p align="center">Data Engineer • Analytics Engineer • Data & BI</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chizaram-enyinwa">LinkedIn</a> •
-  <a href="mailto:enyinwa.patience@gmail.com">Email</a> •
-  <a href="https://github.com/Tzsapphire">GitHub</a>
-</p>
-
-<p align="center">
-  Building analytics-ready data products through reliable modeling, transformation, and reporting workflows.
-</p>
-
----
-
-## About
-
-I work across the analytics engineering stack, from ingestion and transformation to modeling and BI delivery.
-
-My focus is on building clean, trustworthy data layers that support reporting, analysis, and data product use cases. I am currently building deeper credibility in analytics engineering through practical project work, modern data tooling, and open-source contribution.
-
----
-
-## Stack
-
-**Languages:** SQL, Python  
-**Analytics Engineering:** dbt, ELT, incremental models, testing, star schema design  
-**Warehousing:** Snowflake, PostgreSQL  
-**Orchestration & Infra:** Airflow, Terraform, AWS  
-**BI:** Power BI, Tableau  
-**Tools:** Git, GitHub Actions, Linux CLI
-
----
-
-## Selected Work
-
-### Analytics DBT
-End-to-end analytics engineering project built with Snowflake, dbt, and Power BI.
-
-- Layered transformation approach
-- Analytics-ready models for reporting
-- Structured, maintainable dbt workflow
-
-[View project](https://github.com/Tzsapphire/Analytics_DBT)
-
-### Marketing Analytics dbt Project
-Collaborative dbt project focused on marketing analytics and reporting structure.
-
-- Transformation and modeling for campaign analysis
-- Reporting-friendly warehouse design
-- Organized for downstream analytics use
-
-[View project](https://github.com/Tzsapphire/dbt_analytics_project)
-
-### Open Source Contribution — MindsDB
-Documentation and integration workflow contribution around the Instatus integration.
-
-[Contribution branch](https://github.com/Tzsapphire/mindsdb/tree/fix-insert-query-instatus-documentation)
-
----
-
-## Current Focus
-
-- Analytics engineering case studies
-- dbt and warehouse design
-- Reliable reporting models
-- Open-source contribution
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tzsapphire&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tzsapphire&label=Profile%20views&style=flat" alt="Profile views" />
-</p>
-
----
-
-## Connect
-
-- LinkedIn: [chizaram-enyinwa](https://www.linkedin.com/in/chizaram-enyinwa)
-- Email: [enyinwa.patience@gmail.com](mailto:enyinwa.patience@gmail.com)
-
-
-#NEXT
-#NEXT
-#NEXT
-<h1 align="center">Chizaram Patience Enyinwa</h1>
-<p align="center">Data Engineer • Analytics Engineer • Data & BI</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chizaram-enyinwa">LinkedIn</a> •
-  <a href="mailto:enyinwa.patience@gmail.com">Email</a> •
-  <a href="https://github.com/Tzsapphire">GitHub</a>
-</p>
-
-<p align="center">
-  Building analytics-ready data products through reliable modeling, transformation, and reporting workflows.
-</p>
-
----
-
-## About
-
-I work across the analytics engineering stack, from ingestion and transformation to modeling and BI delivery.
-
-My focus is on building clean, trustworthy data layers that support reporting, analysis, and data product use cases. I am building deeper credibility in analytics engineering through practical project work, modern data tooling, and open-source contribution.
-
----
-
-## Stack
-
-**Languages:** SQL, Python  
-**Analytics Engineering:** dbt, ELT, incremental models, testing, star schema design  
-**Warehousing:** Snowflake, PostgreSQL  
-**Orchestration & Infrastructure:** Airflow, Terraform, AWS  
-**BI:** Power BI, Tableau  
-**Tools:** Git, GitHub Actions, Linux CLI
-
----
-
-## Selected Work
-
-### Analytics DBT
-End-to-end analytics engineering project built with Snowflake, dbt, and Power BI.
-
-- Layered transformation approach
-- Analytics-ready models for reporting
-- Structured dbt workflow for maintainability
-
-[View project](https://github.com/Tzsapphire/Analytics_DBT)
-
-### Marketing Analytics dbt Project
-Collaborative dbt project focused on marketing analytics and reporting structure.
-
-- Transformation and modeling for campaign analysis
-- Reporting-friendly warehouse design
-- Organized for downstream analytics use
-
-[View project](https://github.com/Tzsapphire/dbt_analytics_project)
-
-### Open Source Contribution — MindsDB
-Documentation and integration workflow contribution around the Instatus integration.
-
-[View contribution branch](https://github.com/Tzsapphire/mindsdb/tree/fix-insert-query-instatus-documentation)
-
----
-
-## Current Focus
-
-- Analytics engineering case studies
-- dbt and warehouse design
-- Reliable reporting models
-- Open-source contribution
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tzsapphire&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tzsapphire&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tzsapphire&label=Profile%20views&style=flat" alt="Profile views" />
-</p>
-
----
-
-## Writing
-
-I use this space to document project work, technical learning, and analytics engineering practice as I continue growing in data engineering and BI.
-
----
-
-## Connect
-
-- LinkedIn: [chizaram-enyinwa](https://www.linkedin.com/in/chizaram-enyinwa)
-- Email: [enyinwa.patience@gmail.com](mailto:enyinwa.patience@gmail.com)
-
-# NEXT
-# NEXT
-# NEXT
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tzsapphire&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
