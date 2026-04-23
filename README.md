@@ -125,26 +125,6 @@ An end-to-end analytics engineering project built around staged transformations 
 
 ---
 
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tzsapphire&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="right">
-  <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tzsapphire&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tzsapphire&label=Profile%20views&color=9CA3AF&style=flat" alt="Profile views" />
-</p>
-
----
-
 ## Fun Facts
 
 - I transitioned from biotech research into analytics engineering
@@ -165,9 +145,13 @@ I share project breakdowns, technical reflections, and analytics engineering lea
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Tzsapphire&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+## Stats
+
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
+  <img src="https://komarev.com/ghpvc/?username=Tzsapphire&label=Profile%20views&color=9CA3AF&style=flat" alt="Profile views" />
 </p>
