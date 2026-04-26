@@ -21,21 +21,18 @@ Here are some ideas to get you started:
   Data Engineer • Analytics Engineer • Data & BI
 </p>
 
+## Quote
+
+> Build data work that people can trust, use, and scale.
+
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=900&lines=Building+analytics-ready+data+products;Designing+reliable+ELT+workflows;Turning+raw+data+into+decision-ready+models">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=900&lines=Building+analytics-ready+data+products;Designing+reliable+ELT+workflows;Turning+raw+data+into+decision-ready+models" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chizaram-p-0b7008376">LinkedIn</a> •
-  <a href="mailto:enyinwa.patience@gmail.com">Email</a> •
-  <a href="https://github.com/Tzsapphire">GitHub</a>
-</p>
 
 ---
-
-## About
 
 I build analytics-ready data products that make reporting more reliable, modeling more maintainable, and decision-making faster.
 
@@ -116,34 +113,18 @@ An end-to-end analytics engineering project built around staged transformations 
 
 ---
 
-## Selected Principles
-
-- Reliable models are more valuable than clever ones
-- Clean staging makes downstream work easier
-- Analytics should be understandable, testable, and useful
-- Good reporting starts with trustworthy data foundations
-
----
-
-## Fun Facts
-
-- I transitioned from biotech research into analytics engineering
-- I enjoy turning raw operational data into structured, usable models
-- I like work that sits between technical depth and business usefulness
-
----
-
 ## Writing
 
 I share project breakdowns, technical reflections, and analytics engineering learnings here as I continue building.
 
 ---
 
-## Quote
+<p align="center">
+  <a href="https://www.linkedin.com/in/chizaram-p-0b7008376">LinkedIn</a> •
+  <a href="mailto:enyinwa.patience@gmail.com">Email</a> •
+  <a href="https://github.com/Tzsapphire">GitHub</a>
+</p>
 
-> Build data work that people can trust, use, and scale.
-
----
 
 ## Stats
 
