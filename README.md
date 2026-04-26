@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 
 
 <!-- <h1 align="center">Chizaram Patience Enyinwa</h1> -->
-<p align="center">
+<p align="left">
   Data Engineer • Analytics Engineer • Data & BI
 </p>
 
-## Quote
 
-> Build data work that people can trust, use, and scale.
 
-<p align="center">
+<p align="left">
   <a href="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=900&lines=Building+analytics-ready+data+products;Designing+reliable+ELT+workflows;Turning+raw+data+into+decision-ready+models">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=900&lines=Building+analytics-ready+data+products;Designing+reliable+ELT+workflows;Turning+raw+data+into+decision-ready+models" alt="Typing SVG" />
   </a>
 </p>
 
+**Quote:** Build data work that people can trust, use, and scale.  
 
 ---
 
@@ -41,8 +40,6 @@ My work sits across the analytics engineering stack: ingestion, transformation, 
 I’m currently focused on strengthening my footprint in analytics engineering through production-minded projects, open-source contribution, and practical work across modern data tooling.
 
 ---
-
-## What I Work With
 
 **Languages**  
 SQL, Python
