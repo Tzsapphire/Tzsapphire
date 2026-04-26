@@ -123,13 +123,4 @@ I share project breakdowns, technical reflections, and analytics engineering lea
 </p>
 
 
-## Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tzsapphire&label=Profile%20views&color=9CA3AF&style=flat" alt="Profile views" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Tzsapphire&hide_border=true" alt="GitHub streak" />
-</p>
 
