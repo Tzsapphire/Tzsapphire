@@ -110,12 +110,6 @@ An end-to-end analytics engineering project built around staged transformations 
 
 ---
 
-## Writing
-
-I share project breakdowns, technical reflections, and analytics engineering learnings here as I continue building.
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/chizaram-p-0b7008376">LinkedIn</a> •
   <a href="mailto:enyinwa.patience@gmail.com">Email</a> •
