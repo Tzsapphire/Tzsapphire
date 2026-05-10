@@ -84,7 +84,7 @@ A collaborative marketing analytics project that transforms campaign and subscri
 - Focused on maintainable organization for downstream analysis
 
 **Repository:**  
-[dbt_analytics_project](https://github.com/Tzsapphire/dbt_analytics_project)
+[Marketing_analytics](https://github.com/phoenix-group5/dbt_analytics_project)
 
 ---
 
