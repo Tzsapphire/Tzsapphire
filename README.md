@@ -75,7 +75,7 @@ Contributed to documentation-related improvement work around the Instatus integr
 
 ---
 
-### 2) Marketing Analytics dbt Project
+### 2) Marketing Analytics
 **Stack:** dbt, Snowflake, marketing analytics modeling  
 A collaborative marketing analytics project that transforms campaign and subscriber data into a star-schema-friendly structure for reporting.
 
