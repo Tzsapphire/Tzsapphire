@@ -21,16 +21,6 @@ Here are some ideas to get you started:
   Data Engineer • Analytics Engineer • Data & BI
 </p>
 
-
-
-<p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=900&lines=Building+analytics-ready+data+products;Designing+reliable+ELT+workflows;Turning+raw+data+into+decision-ready+models">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=900&lines=Building+analytics-ready+data+products;Designing+reliable+ELT+workflows;Turning+raw+data+into+decision-ready+models" alt="Typing SVG" />
-  </a>
-</p>
-
-**Quote:** Build data work that people can trust, use, and scale.  
-
 ---
 
 I build analytics-ready data products that make reporting more reliable, modeling more maintainable, and decision-making faster.
@@ -85,7 +75,7 @@ A collaborative marketing analytics project that transforms campaign and subscri
 
 **Repository:**  
 [Marketing_analytics](https://github.com/phoenix-group5/dbt_analytics_project)
-
+Improvement (in progress) [Marketing_Analytics](https://github.com/Tzsapphire/marketing-analytics)
 ---
 
 ### 3) Analytics DBT Project
